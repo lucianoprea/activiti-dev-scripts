@@ -1,3 +1,5 @@
+#!/bin/bash
+set -e
 cd activiti-cloud-examples
 cd docker
 docker-compose -f infrastructure-docker.yml up -d

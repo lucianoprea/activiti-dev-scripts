@@ -1,3 +1,5 @@
+#!/bin/bash
+set -e
 git clone https://github.com/Activiti/activiti-build.git
 git clone https://github.com/Activiti/Activiti.git
 git clone https://github.com/Activiti/activiti-cloud-build.git
