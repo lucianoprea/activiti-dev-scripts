@@ -1,6 +1,6 @@
 version: '2'
 services:
-	# We decided to configure our runtime bundle against a PostgreSQL instance
+# We decided to configure our runtime bundle against a PostgreSQL instance
   rb-postgres:
     image: postgres
     ports:
